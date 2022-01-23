@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		295D294E279CEB910033565A /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 295D294D279CEB910033565A /* SettingsViewController.swift */; };
 		29EB88392798F1CC0009B1B3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EB88382798F1CC0009B1B3 /* AppDelegate.swift */; };
 		29EB883B2798F1CC0009B1B3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EB883A2798F1CC0009B1B3 /* SceneDelegate.swift */; };
 		29EB883D2798F1CC0009B1B3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EB883C2798F1CC0009B1B3 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		295D294D279CEB910033565A /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		29EB88352798F1CC0009B1B3 /* MaochengX_prework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MaochengX_prework.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		29EB88382798F1CC0009B1B3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		29EB883A2798F1CC0009B1B3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				29EB883A2798F1CC0009B1B3 /* SceneDelegate.swift */,
 				29EB883C2798F1CC0009B1B3 /* ViewController.swift */,
 				29EB883E2798F1CC0009B1B3 /* Main.storyboard */,
+				295D294D279CEB910033565A /* SettingsViewController.swift */,
 				29EB88412798F1CC0009B1B3 /* Assets.xcassets */,
 				29EB88432798F1CC0009B1B3 /* LaunchScreen.storyboard */,
 				29EB88462798F1CC0009B1B3 /* Info.plist */,
@@ -261,6 +264,7 @@
 				29EB883D2798F1CC0009B1B3 /* ViewController.swift in Sources */,
 				29EB88392798F1CC0009B1B3 /* AppDelegate.swift in Sources */,
 				29EB883B2798F1CC0009B1B3 /* SceneDelegate.swift in Sources */,
+				295D294E279CEB910033565A /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

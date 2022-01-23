@@ -23,6 +23,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] List anything else that you can get done to improve the app functionality!
+
 Change the state of the segmented bar as not selected at the initial moment. Therefore, when open this app and type some number, you can select the first bar(15%) to calculate, instead of selecting another one and then selecting back.
 
 ## Video Walkthrough
@@ -36,6 +37,7 @@ GIF created with [RecordIt](https://recordit.co/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 Since I am totally new to Xcode and Swift, I don't know how to start many programs such as the animation, improving UI, and so on. 
 
 ## License

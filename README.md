@@ -1,4 +1,4 @@
-# Pre-work - *Name of App Here*
+# MaochengX_prework
 
 **MaochengX_prework** is a tip calculator application for iOS.
 
@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/3PCftR61HT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [RecordIt](https://recordit.co/).
 
 ## Notes
 
